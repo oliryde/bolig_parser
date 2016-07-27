@@ -1,0 +1,2 @@
+defmodule BoligParser do
+end
