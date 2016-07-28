@@ -19,7 +19,7 @@ defmodule BoligParser.Parser do
     [
       %Department{
       :DepartmentPropertiesdto => %Department.Properties{},
-      :TenancyDtos => [{%Tenancy{}]}
+      :TenancyDtos => [%Tenancy{}]
       }
     ]
   end
